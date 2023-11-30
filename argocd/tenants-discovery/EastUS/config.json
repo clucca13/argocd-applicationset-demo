@@ -1,12 +1,12 @@
 {
   "tenant": {
     "owner": "phillip.price@ecorp.com",
-    "name": "E Corp",
-    "id": "ecorp"
+    "name": "EastUS",
+    "id": "eastus"
   },
   "k8s_cluster": {
     "owner": "admin@company.com",
-    "address": "https://kubernetes.default.svc",
+    "address": ""https://34.132.130.28",
     "namespace": "argocd"
   }
 }
